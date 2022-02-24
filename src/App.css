@@ -2,6 +2,14 @@
   max-width: 400px;
   margin: auto;
 }
+.edit-form {
+  max-width: 400px;
+  margin: auto;
+}
+.card {
+  width: 25rem;
+  margin: 2rem auto;
+}
 .list-item::before {
   content: "";
   position: absolute;

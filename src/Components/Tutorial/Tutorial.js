@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {useParams, useNavigate} from 'react-router-dom';
-import TutorialDataService from '../Services/TutorialService'
+import TutorialDataService from '../../Services/TutorialService'
 
 const Tutorial = () => {
     let navigate = useNavigate();

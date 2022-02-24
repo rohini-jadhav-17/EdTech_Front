@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useState } from 'react/cjs/react.development';
-import TutorialDataService from '../Services/TutorialService';
+import TutorialDataService from '../../Services/TutorialService';
 import { Link, useNavigate } from 'react-router-dom';
 
 const TutorialsList = () => {

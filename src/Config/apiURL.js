@@ -11,3 +11,7 @@ export const UPDATE_TUTORIAL = MAIN_URL + 'tutorials/';
 export const DELETE_ONE_TUTORIAL = `${MAIN_URL}tutorials/`;
 export const DELETE_ALL_TUTORIAL = MAIN_URL + 'tutorials';
 
+// authentication url
+export const SIGN_UP = MAIN_URL + 'signup';
+export const LOGIN = MAIN_URL + 'login';
+export const LOGOUT = MAIN_URL + 'logout';
